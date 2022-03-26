@@ -13,3 +13,6 @@ Au cours des dernières années, lorsque les parents de l'école ont été consu
 Nous saluons la volonté de l'administration municipale de faire du quartier Montcalm une zone apaisée.  Aussi, nous reconnaissons l'expertise de la Ville et de ses partenaires pour choisir les meilleurs aménagements. Toutefois, par le passé, des solutions optimales pour la sécurité des personnes et la qualité de vie dans le quartier ont été écartées au nom du maintien de la fluidité automobile. Nous craignons que le poids de la culture nord-américaine du tout à l'auto - dont il est impératif de s'extirper - et les voix fortes qui la défendent poussent votre administration vers des compromis malheureux.
 
 Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administration municipale d'opérer un changement de paradigme visant l'établissement d'une collectivité viable (1) en favorisant, entre autres, les déplacements actifs et autonomes des enfants du quartier.
+
+
+![image](velo.png)
