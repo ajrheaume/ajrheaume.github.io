@@ -22,8 +22,9 @@ Nous saluons la volonté de l'administration municipale de faire du quartier Mon
 
 Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administration municipale d'opérer un changement de paradigme visant l'établissement d'une collectivité viable (1) en favorisant, entre autres, les déplacements actifs et autonomes des enfants du quartier.
 
-
-![image](velo.png)
+<p align="center">
+ <img src="velo.png" height=150>
+</p>
 
 # Nous souhaitons:
 
@@ -40,13 +41,12 @@ Des mesures d’apaisement passive de la circulation — c'est-à-dire des modif
 
 Le vélo boulevard Père-Marquette est un exemple de voie cyclable sécuritaire et apaisée, mais il demeure difficile d'accès pour les résidents de certains secteurs. Par exemple, la rue Bourlamaque, qui fait officiellement partie du corridor cyclable, ne comporte aucun aménagement pour sécuriser les cyclistes, diminuer la vitesse des voitures ou limiter la circulation lourde, qui y est très présente. La présence des cyclistes sur cette rue semble régulièrement surprendre et incommoder les automobilistes, qui réagissent trop souvent de manière agressive et dangereuse (manoeuvres à risque, insultes, klaxons). Incidemment, on y croise très peu d'enfants cyclistes en route vers l'école. Il serait opportun d'aménager cette voie cyclable de manière plus affirmée afin que les jeunes cyclistes puissent y circuler sécuritairement.
 
-### 4) Sécuriser l'intersection Bourlamaque / Père-Marquette
 
 De la même manière, la traversée de la rue Bourlamaque au niveau de la rue Dumont/Père-Marquette, aussi dans le corridor cyclable officiel, nécessite de traverser une pente sans arrêt obligatoire pour rejoindre un tronçon non-aligné. Cette manoeuvre est particulièrement périlleuse pour des cyclistes novices et anxiogène pour leurs parents.
 
 Notons qu'au sujet de ces quatre premiers points, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées, ou du marquage au sol ne seront pas suffisants puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants.
 
-### 5) Interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
+### 4) Interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
 
 Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes disposent de deux à trois fois cette largeur pour se stationner en bordure de rue et circuler. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
 
@@ -56,7 +56,11 @@ Le service de brigadières récemment instauré par le CAA - une association d'a
 
 Une zone piétonne et conviviale en bordure de l'école serait assurément plus agréable et favoriserait, au quotidien, l'établissement de liens sociaux entre les membres de notre communauté, en plus d'améliorer la sécurité aux abords de l'école.
 
-### 6) Conservation et implantation d'un maximum d'arbres dans le quartier 
+### 5) Conservation et implantation d'un maximum d'arbres dans le quartier
+
+<p align="center">
+ <img src="arbre.jpg" height=150>
+</p>
 
 
 De manière générale, nous souhaitons que ces aménagements intègrent un maximum des nouveaux arbres promis par l'administration municipale. En plus d'embellir notre quartier, d'améliorer la qualité de son air et de lutter contre les îlots de chaleur, il est démontré que la présence d'arbres encourage la mobilité active (10, 11).
@@ -70,6 +74,42 @@ Les faits sont indéniables : notre jeunesse est de moins en moins active, ce qu
 Le remodelage du quartier que rendra nécessaire l'implantation du tramway offre une opportunité que la ville a le devoir de saisir. Les aménagements que nous demandons se justifient de la même manière que l'implantation du tramway elle-même : densifier et augmenter l'attrait des quartiers centraux pour limiter l'étalement urbain et absorber la croissance démographique prévue pour les prochaines décennies, créer des incitatifs pour un transfert modal des citoyens vers les modes de transport actif et en commun et ce, afin d'améliorer la qualité de vie de tous.
 
 C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, justes et ambitieux pour le quartier Montcalm et l'école Anne-Hébert.
+
+# Résumé des demandes:
+
+<div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:10px'>
+<span>
+<p style='margin-top:1em; text-align:center; font-size: 1.3em'>
+<b>Des obstacles détournant la circulation automobile de transit similaire à ceux du vélo boulevard Père-Marquette sur les axes est-ouest.</b></p>
+</span>
+</div>
+
+<div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
+<p style='margin-top:1em; text-align:center; font-size: 1.3em'>
+<b>Des aménagements limitant la vitesse effective des voitures sur les axes nord-sud qui traverseront la plateforme du tramway.</b></p>
+</span>
+</div>
+
+<div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
+<p style='margin-top:1em; text-align:center; font-size: 1.3em'>
+<b>Une réelle piste cyclable sur l'avenue Bourlamaque.</b></p>
+</span>
+</div>
+
+<div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
+<p style='margin-top:1em; text-align:center; font-size: 1.3em'>
+<b>Interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde.</b></p>
+</span>
+</div>
+
+<div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
+<p style='margin-top:1em; text-align:center; font-size: 1.3em'>
+<b>Conservation et implantation d'un maximum d'arbres dans le quartier.</b></p>
+</span>
+</div>
+
+
+
 
 
 # Signataires
