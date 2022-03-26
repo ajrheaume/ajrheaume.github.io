@@ -1,0 +1,15 @@
+À l'attention de Madame Catherine Vallières-Roland, conseillère du district de Montcalm-Saint-Sacrement, Madame Mélissa Coulombe-Leduc, conseillère du district du Cap-aux-Diamants, Monsieur Pierre-Luc Lachance, conseiller du district de Saint-Roch-Saint-Sauveur et Monsieur Bruno Marchand, maire de Québec.
+
+À titre de parents et de membres de la communauté de l’école Anne-Hébert, nous aimerions vous faire part de nos souhaits concernant l'aménagement de notre secteur.
+
+# Mise en contexte
+
+Dans le cadre des travaux entourant l'insertion du tramway sur le boulevard René-Lévesque, la configuration de plusieurs rues de notre quartier sera modifiée et les citoyens devront modifier leurs habitudes.
+
+Nous croyons qu'il s'agit d'une opportunité à saisir pour favoriser de saines habitudes de vie dont l'adoption du transport actif, en particulier pour les déplacements entre l'école et la maison des élèves du niveau primaire. Depuis 30 ans, la proportion des enfants d'âge primaire se déplaçant à pied ou à vélo est en constante régression (3), malgré les bienfaits avérés des déplacements actifs sur leur santé physique et mentale ainsi que sur leur autonomie. Il importe d'inverser cette tendance et l'école Anne-Hébert, du fait de la densité du secteur où elle est située, est dans un environnement exceptionnel pour servir de modèle d'aménagement urbain favorisant la mobilité active.
+
+Au cours des dernières années, lorsque les parents de l'école ont été consultés au sujet du transport actif, leurs principales inquiétudes et réticences concernaient le non-respect de la signalisation et des limites de vitesse par les automobilistes (2). Ce constat n’est pas inusité : de nombreux autres rapports ont aussi identifié la crainte des dangers associés au trafic automobile comme principal frein à la marche vers l’école (3, 5, 6, 7, 8). En outre, la crainte d’une augmentation de la circulation automobile a aussi été soulevée par plusieurs citoyens lors des récentes consultations au sujet de l’insertion de tramway dans le secteur (4). En effet, en l’absence d’aménagements adéquats, une augmentation de la circulation dans les rues de Montcalm est à craindre, ce qui viendrait interférer davantage avec le déplacement sécuritaire des écoliers.
+
+Nous saluons la volonté de l'administration municipale de faire du quartier Montcalm une zone apaisée.  Aussi, nous reconnaissons l'expertise de la Ville et de ses partenaires pour choisir les meilleurs aménagements. Toutefois, par le passé, des solutions optimales pour la sécurité des personnes et la qualité de vie dans le quartier ont été écartées au nom du maintien de la fluidité automobile. Nous craignons que le poids de la culture nord-américaine du tout à l'auto - dont il est impératif de s'extirper - et les voix fortes qui la défendent poussent votre administration vers des compromis malheureux.
+
+Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administration municipale d'opérer un changement de paradigme visant l'établissement d'une collectivité viable (1) en favorisant, entre autres, les déplacements actifs et autonomes des enfants du quartier.
