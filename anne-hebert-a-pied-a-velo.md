@@ -19,7 +19,7 @@ Dans le cadre des travaux entourant l'insertion du tramway sur le boulevard Ren�
 
 Nous croyons qu'il s'agit d'une opportunité à saisir pour favoriser de saines habitudes de vie dont l'adoption du transport actif, en particulier pour les déplacements entre l'école et la maison des élèves du niveau primaire. Depuis 30 ans, la proportion des enfants d'âge primaire se déplaçant à pied ou à vélo est en constante régression (3), malgré les bienfaits avérés des déplacements actifs sur leur santé physique et mentale ainsi que sur leur autonomie. Il importe d'inverser cette tendance et l'école Anne-Hébert, du fait de la densité du secteur où elle est située, est dans un environnement exceptionnel pour servir de modèle d'aménagement urbain favorisant la mobilité active.
 
-Au cours des dernières années, lorsque les parents de l'école ont été consultés au sujet du transport actif, leurs principales inquiétudes et réticences concernaient le non-respect de la signalisation et des limites de vitesse par les automobilistes (2). Ce constat n’est pas inusité : de nombreux autres rapports ont aussi identifié la crainte des dangers associés au trafic automobile comme principal frein à la marche vers l’école (3, 5, 6, 7, 8). En outre, la crainte d’une augmentation de la circulation automobile a aussi été soulevée par plusieurs citoyens lors des récentes consultations au sujet de l’insertion de tramway dans le secteur (4). En effet, en l’absence d’aménagements adéquats, une augmentation de la circulation dans les rues de Montcalm est à craindre, ce qui viendrait interférer davantage avec le déplacement sécuritaire des écoliers.
+Au cours des dernières années, lorsque les parents de l'école ont été consultés au sujet du transport actif, leurs principales inquiétudes et réticences concernaient le non-respect de la signalisation et des limites de vitesse par les automobilistes (2). Ce constat n’est pas inusité : de nombreux autres rapports ont aussi identifié la crainte des dangers associés au trafic automobile comme principal frein à la marche vers l’école (3, 5, 6, 7, 8). En outre, la crainte d’une augmentation de la circulation automobile a été soulevée par plusieurs citoyens lors des récentes consultations au sujet de l’insertion de tramway dans le secteur (4). En effet, en l’absence d’aménagements adéquats, une augmentation de la circulation dans les rues de Montcalm est à craindre, ce qui viendrait interférer davantage avec le déplacement sécuritaire des écoliers.
 
 Nous saluons la volonté de l'administration municipale de faire du quartier Montcalm une zone apaisée.  Aussi, nous reconnaissons l'expertise de la Ville et de ses partenaires pour choisir les meilleurs aménagements. Toutefois, par le passé, des solutions optimales pour la sécurité des personnes et la qualité de vie dans le quartier ont été écartées au nom du maintien de la fluidité automobile. Nous craignons que le poids de la culture nord-américaine du tout à l'auto - dont il est impératif de s'extirper - et les voix fortes qui la défendent poussent votre administration vers des compromis malheureux.
 
@@ -31,13 +31,13 @@ Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administrat
 
 # Nous souhaitons:
 
-### 1) Des mesures d'apaisement de la cirulation contraignant la vitesse de la cirulation dans les rues du quartier.
+### 1) Des mesures d'apaisement de la circulation contraignant la vitesse des voitures dans les rues du quartier.
 
 Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (6). Nous demandons ainsi que des aménagements passifs - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
 
-Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles et les traverses piétones surélevées sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraint à pacifier notre quartier.
+Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles et les traverses piétonnes surélevées sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraient à pacifier notre quartier.
 
-Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la traversée de la plateforme du tramway sera permise, afin d'éviter que la circulation de transit ne vienne pas nuire davantage aus déplacements actifs sécuritaires de nos enfants.
+Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la traversée de la plateforme du tramway par les automobiles sera permise, afin d'éviter que la circulation de transit ne vienne nuire davantage aux déplacements actifs sécuritaires de nos enfants.
 
 <p align="center">
  <img src="traversees.png" height=200>
@@ -45,7 +45,7 @@ Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la travers
 
 ### 2) La canalisation des automobiles sur la rue Fraser.
 
-La rue Fraser, du fait de sa longueur est particulièrement à risque d'être empruntée en remplacement du boulevard René-Lévesque par les automobilistes en transit. Ces derniers devraient être redirigés vers la Grande Allée ou le Chemin Sainte-Foy grâce à des obstacles similaires à ceux installés sur le vélo boulevard Père-Marquette.
+La rue Fraser, du fait de sa longueur, est particulièrement à risque d'être empruntée en remplacement du boulevard René-Lévesque par les automobilistes en transit. Ces derniers devraient être redirigés vers la Grande Allée ou le Chemin Sainte-Foy grâce à des obstacles similaires à ceux installés sur le vélo boulevard Père-Marquette.
 
 <p align="center">
  <img src="canalisation.jpg" height=200>
@@ -91,7 +91,7 @@ Les rangées d'arbres en bordure de rue sont un bon exemple d'aménagement passi
 
 # Conclusion
 
-Les faits sont indéniables : notre jeunesse est de moins en moins active, ce qui affecte de manière alarmante leur santé physique et mentale ainsi que leur autonomie. Il est nécessaire d'opérer un changement de paradigme et de privilégier transports actifs plutôt que la fluidité automobile lorsque des choix urbanistiques sont fait.
+Les faits sont indéniables : notre jeunesse est de moins en moins active, ce qui affecte de manière alarmante leur santé physique et mentale ainsi que leur autonomie. Il est nécessaire d'opérer un changement de paradigme et de privilégier les transports actifs plutôt que la fluidité automobile lorsque des choix urbanistiques sont faits.
 
 Le remodelage du quartier que rendra nécessaire l'implantation du tramway offre une opportunité que la ville a le devoir de saisir. Les aménagements que nous demandons se justifient de la même manière que l'implantation du tramway elle-même : densifier et augmenter l'attrait des quartiers centraux pour limiter l'étalement urbain et absorber la croissance démographique prévue pour les prochaines décennies, créer des incitatifs pour un transfert modal des citoyens vers les modes de transport actif et en commun et ce, afin d'améliorer la qualité de vie de tous.
 
@@ -102,7 +102,7 @@ C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, jus
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:10px'>
 <span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>Des mesures d'apaisement de la cirulation contraignant la vitesse de la cirulation dans les rues du quartier.</b></p>
+<b>Des mesures d'apaisement de la circulation contraignant la vitesse des voitures dans les rues du quartier.</b></p>
 </span>
 </div>
 
