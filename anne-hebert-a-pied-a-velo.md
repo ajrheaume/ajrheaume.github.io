@@ -120,7 +120,7 @@ C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, jus
 
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>L'interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde.</b></p>
+<b>L'interdiction du transit automobile sur le tronçon de la rue Brown adjacent à l'école aux heures de service de garde.</b></p>
 </span>
 </div>
 
