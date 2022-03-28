@@ -1,3 +1,6 @@
+<p align="right">Le 28 mars 2022</p>
+
+
 À l'attention de 
 
 Madame Catherine Vallières-Roland, conseillère du district de Montcalm-Saint-Sacrement, 
@@ -28,14 +31,26 @@ Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administrat
 
 # Nous souhaitons:
 
-### 1) Des obstacles détournant la circulation automobile de transit similaire à ceux du vélo boulevard Père-Marquette sur les axes est-ouest. 
+### 1) Des mesures d'apaisement de la cirulation contraignant la vitesse de la cirulation dans les rues du quartier.
 
+Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (6). Nous demandons ainsi que des aménagements passifs - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
 
-Ceci est particulièrement important sur la rue Fraser, qui est à risque d'être empruntée en remplacement du boulevard René-Lévesque par les automobilistes en transit. Ces derniers devraient être redirigés vers la Grande Allée ou le Chemin Sainte-Foy.
+Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles et les traverses piétones surélevées sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraint à pacifier notre quartier.
 
-### 2) Des aménagements limitant la vitesse effective des voitures sur les axes nord-sud qui traverseront la plateforme du tramway. 
+Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la traversée de la plateforme du tramway sera permise, afin d'éviter que la circulation de transit ne vienne pas nuire davantage aus déplacements actifs sécuritaires de nos enfants.
 
-Des mesures d’apaisement passive de la circulation — c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir (rangée d'arbres entre les trottoirs et la rue, élargissement des trottoirs, plate-bandes, etc) — sont de mise (1, 5).
+<p align="center">
+ <img src="traversees.png" height=200>
+</p>
+
+### 2) La canalisation des automobiles sur la rue Fraser.
+
+La rue Fraser, du fait de sa longueur est particulièrement à risque d'être empruntée en remplacement du boulevard René-Lévesque par les automobilistes en transit. Ces derniers devraient être redirigés vers la Grande Allée ou le Chemin Sainte-Foy grâce à des obstacles similaires à ceux installés sur le vélo boulevard Père-Marquette.
+
+<p align="center">
+ <img src="canalisation.jpg" height=200>
+</p>
+
 
 ### 3) Une réelle piste cyclable sur l'avenue Bourlamaque
 
@@ -44,9 +59,16 @@ Le vélo boulevard Père-Marquette est un exemple de voie cyclable sécuritaire 
 
 De la même manière, la traversée de la rue Bourlamaque au niveau de la rue Dumont/Père-Marquette, aussi dans le corridor cyclable officiel, nécessite de traverser une pente sans arrêt obligatoire pour rejoindre un tronçon non-aligné. Cette manoeuvre est particulièrement périlleuse pour des cyclistes novices et anxiogène pour leurs parents.
 
-Notons qu'au sujet de ces quatre premiers points, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées, ou du marquage au sol ne seront pas suffisants puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants.
+<div class="warning" style='padding:0.6em; background-color:#D3D3D3; margin-top:10px'>
+<span>
+<p style='margin-top:1em; text-align:center; font-size: 1.1em'>
+Notons qu'au sujet de ces quatre trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
+</p>
+</span>
+</div>
 
-### 4) Interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
+
+### 4) L'interdiction du transit automobile sur le tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
 
 Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes disposent de deux à trois fois cette largeur pour se stationner en bordure de rue et circuler. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
 
@@ -56,7 +78,7 @@ Le service de brigadières récemment instauré par le CAA - une association d'a
 
 Une zone piétonne et conviviale en bordure de l'école serait assurément plus agréable et favoriserait, au quotidien, l'établissement de liens sociaux entre les membres de notre communauté, en plus d'améliorer la sécurité aux abords de l'école.
 
-### 5) Conservation et implantation d'un maximum d'arbres dans le quartier
+### 5) La conservation et l'implantation d'un maximum d'arbres dans le quartier
 
 <p align="center">
  <img src="arbre.jpg" height=150>
@@ -80,13 +102,13 @@ C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, jus
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:10px'>
 <span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>Des obstacles détournant la circulation automobile de transit similaire à ceux du vélo boulevard Père-Marquette sur les axes est-ouest.</b></p>
+<b>Des mesures d'apaisement de la cirulation contraignant la vitesse de la cirulation dans les rues du quartier.</b></p>
 </span>
 </div>
 
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>Des aménagements limitant la vitesse effective des voitures sur les axes nord-sud qui traverseront la plateforme du tramway.</b></p>
+<b>La canalisation des automobiles sur la rue Fraser.</b></p>
 </span>
 </div>
 
@@ -98,17 +120,15 @@ C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, jus
 
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>Interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde.</b></p>
+<b>L'interdiction du transit automobile sur tronçon de la rue Brown adjacent à l'école aux heures de service de garde.</b></p>
 </span>
 </div>
 
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:20px'><span>
 <p style='margin-top:1em; text-align:center; font-size: 1.3em'>
-<b>Conservation et implantation d'un maximum d'arbres dans le quartier.</b></p>
+<b>La conservation et l'implantation d'un maximum d'arbres dans le quartier.</b></p>
 </span>
 </div>
-
-
 
 
 
@@ -144,3 +164,7 @@ Joseph Lupien-Meilleur
 10) [Urban Trees and Human Health: A Scoping Review](https://www.mdpi.com/1660-4601/17/12/4371/htm)
 
 11) [Does street greenery always promote active travel? Evidence from Beijing](https://www.mdpi.com/1660-4601/17/12/4371/htm)
+
+<p align="center">
+ <img src="dessin.png" height=200>
+</p>
