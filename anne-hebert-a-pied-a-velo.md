@@ -174,7 +174,13 @@ Valérie Bélanger Couture
 
 Julien Bureau
 
+Julie Malo-Sauvé
 
+Nicolas Biron
+
+Maria Rodriguez
+
+Antoine Casgrain
 
 
 # Références
