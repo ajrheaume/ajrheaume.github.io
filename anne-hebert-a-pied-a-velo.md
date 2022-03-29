@@ -1,6 +1,5 @@
 <p align="right">Le 29 mars 2022</p>
 
-
 À l'attention de 
 
 Madame Catherine Vallières-Roland, conseillère du district de Montcalm-Saint-Sacrement, 
@@ -14,6 +13,10 @@ Monsieur Bruno Marchand, maire de Québec.
 À titre de parents et de membres de la communauté de l’école Anne-Hébert, nous aimerions vous faire part de nos souhaits concernant l'aménagement de notre secteur.
 
 # Mise en contexte
+
+<p align="center">
+ <img src="ecole.jpg" height=200>
+</p>
 
 Dans le cadre des travaux entourant l'insertion du tramway sur le boulevard René-Lévesque, la configuration de plusieurs rues de notre quartier sera modifiée et les citoyens devront modifier leurs habitudes.
 
