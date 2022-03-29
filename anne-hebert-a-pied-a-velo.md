@@ -1,4 +1,4 @@
-<p align="right">Le 28 mars 2022</p>
+<p align="right">Le 29 mars 2022</p>
 
 
 À l'attention de 
@@ -23,7 +23,7 @@ Au cours des dernières années, lorsque les parents de l'école ont été consu
 
 Nous saluons la volonté de l'administration municipale de faire du quartier Montcalm une zone apaisée.  Aussi, nous reconnaissons l'expertise de la Ville et de ses partenaires pour choisir les meilleurs aménagements. Toutefois, par le passé, des solutions optimales pour la sécurité des personnes et la qualité de vie dans le quartier ont été écartées au nom du maintien de la fluidité automobile. Nous craignons que le poids de la culture nord-américaine du tout à l'auto - dont il est impératif de s'extirper - et les voix fortes qui la défendent poussent votre administration vers des compromis malheureux.
 
-Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administration municipale d'opérer un changement de paradigme visant l'établissement d'une collectivité viable (1) en favorisant, entre autres, les déplacements actifs et autonomes des enfants du quartier.
+Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administration municipale d'opérer un changement de paradigme visant l'établissement d'une [collectivité viable](https://collectivitesviables.org/) en favorisant, entre autres, les déplacements actifs et autonomes des enfants du quartier.
 
 <p align="center">
  <img src="velo.png" height=150>
@@ -33,11 +33,13 @@ Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administrat
 
 ### 1) Des mesures d'apaisement de la circulation contraignant la vitesse des voitures dans les rues du quartier.
 
-Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (6). Nous demandons ainsi que des aménagements passifs - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
+Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (6). Nous demandons ainsi que des __aménagements passifs__ - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
 
-Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles et les traverses piétonnes surélevées sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraient à pacifier notre quartier.
+Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles, les traverses piétonnes surélevées et les saillies de trottoir sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraient à pacifier notre quartier.
 
 Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la traversée de la plateforme du tramway par les automobiles sera permise, afin d'éviter que la circulation de transit ne vienne nuire davantage aux déplacements actifs sécuritaires de nos enfants.
+
+En particulier, l'avenue Belvédère, empruntée par plusieurs marcheurs et cyclistes de l'école, est spécialement à risque de voir une augmentation du nombre de voitures et de leur vitesse. De même, l'avenue des Érables, du fait de la largeur de ses voies de circulation automobile, est déjà très difficile à traverser pour les enfants. Ces deux avenues devraient faire l'objet d'une attention particulière.
 
 <p align="center">
  <img src="traversees.png" height=200>
@@ -62,7 +64,7 @@ De la même manière, la traversée de la rue Bourlamaque au niveau de la rue Du
 <div class="warning" style='padding:0.6em; background-color:#D3D3D3; margin-top:10px'>
 <span>
 <p style='margin-top:1em; text-align:center; font-size: 1.1em'>
-Notons qu'au sujet de ces quatre trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
+Notons qu'au sujet de ces trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
 </p>
 </span>
 </div>
@@ -70,7 +72,7 @@ Notons qu'au sujet de ces quatre trois premières demandes, une signalisation du
 
 ### 4) L'interdiction du transit automobile sur le tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
 
-Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes disposent de deux à trois fois cette largeur pour se stationner en bordure de rue et circuler. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
+Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes dispose de plusieurs fois cette largeur pour se stationner en bordure de rue et circuler, en plus d'empiéter sur l'espace de trottoir lors de l'ouverture des portières. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
 
 Une façon simple d'y remédier serait d'interdire la circulation automobile de transit sur ce tronçon de rue (Brown entre Père-Marquette et le Chemin Sainte-Foy), au moins aux heures d'ouverture du service de garde. Un débarcadère pour les autobus scolaires et un accès pour les véhicules d'urgence ne sont pas incompatibles avec une telle interdiction.
 
@@ -138,7 +140,41 @@ Ann-Julie Rhéaume
 
 Joseph Lupien-Meilleur
 
-[...]
+François Talbot
+
+Christine Lavallière
+
+Marine Sériès
+
+Blanche Jobin Paré
+
+Jessie Dubois
+
+Nora Loreto
+
+Marie-France Boudreault
+
+Marie-Pier Baril
+
+Josée-Mélanie Gagnon
+
+Diane Lefebvre
+
+Louise Lecours
+
+Catherine Laissy Matte
+
+Romain Lanchon
+
+Anne-Claire Lanchon
+
+Louis-Vincent Morin-Thibault
+
+Valérie Bélanger Couture
+
+Julien Bureau
+
+
 
 
 # Références
