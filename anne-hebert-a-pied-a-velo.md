@@ -20,9 +20,9 @@ Monsieur Bruno Marchand, maire de Québec.
 
 Dans le cadre des travaux entourant l'insertion du tramway sur le boulevard René-Lévesque, la configuration de plusieurs rues de notre quartier sera modifiée et les citoyens devront modifier leurs habitudes.
 
-Nous croyons qu'il s'agit d'une opportunité à saisir pour favoriser de saines habitudes de vie dont l'adoption du transport actif, en particulier pour les déplacements entre l'école et la maison des élèves du niveau primaire. Depuis 30 ans, la proportion des enfants d'âge primaire se déplaçant à pied ou à vélo est en constante régression (3), malgré les bienfaits avérés des déplacements actifs sur leur santé physique et mentale ainsi que sur leur autonomie. Il importe d'inverser cette tendance et l'école Anne-Hébert, du fait de la densité du secteur où elle est située, est dans un environnement exceptionnel pour servir de modèle d'aménagement urbain favorisant la mobilité active.
+Nous croyons qu'il s'agit d'une opportunité à saisir pour favoriser de saines habitudes de vie dont l'adoption du transport actif, en particulier pour les déplacements entre l'école et la maison des élèves du niveau primaire. Depuis 30 ans, la proportion des enfants d'âge primaire se déplaçant à pied ou à vélo est en constante régression (3), malgré les bienfaits avérés des déplacements actifs sur leur santé physique et mentale ainsi que sur leur autonomie (5). Il importe d'inverser cette tendance et l'école Anne-Hébert, du fait de la densité du secteur où elle est située, est dans un environnement exceptionnel pour servir de modèle d'aménagement urbain favorisant la mobilité active.
 
-Au cours des dernières années, lorsque les parents de l'école ont été consultés au sujet du transport actif, leurs principales inquiétudes et réticences concernaient le non-respect de la signalisation et des limites de vitesse par les automobilistes (2). Ce constat n’est pas inusité : de nombreux autres rapports ont aussi identifié la crainte des dangers associés au trafic automobile comme principal frein à la marche vers l’école (3, 5, 6, 7, 8). En outre, la crainte d’une augmentation de la circulation automobile a été soulevée par plusieurs citoyens lors des récentes consultations au sujet de l’insertion de tramway dans le secteur (4). En effet, en l’absence d’aménagements adéquats, une augmentation de la circulation dans les rues de Montcalm est à craindre, ce qui viendrait interférer davantage avec le déplacement sécuritaire des écoliers.
+Au cours des dernières années, lorsque les parents de l'école ont été consultés au sujet du transport actif, leurs principales inquiétudes et réticences concernaient le non-respect de la signalisation et des limites de vitesse par les automobilistes (2). Ce constat n’est pas inusité : de nombreux autres rapports ont aussi identifié la crainte des dangers associés au trafic automobile comme principal frein à la marche vers l’école (3, 6, 7, 8, 9). En outre, la crainte d’une augmentation de la circulation automobile a été soulevée par plusieurs citoyens lors des récentes consultations au sujet de l’insertion de tramway dans le secteur (4). En effet, en l’absence d’aménagements adéquats, une augmentation de la circulation dans les rues de Montcalm est à craindre, ce qui viendrait interférer davantage avec le déplacement sécuritaire des écoliers.
 
 Nous saluons la volonté de l'administration municipale de faire du quartier Montcalm une zone apaisée.  Aussi, nous reconnaissons l'expertise de la Ville et de ses partenaires pour choisir les meilleurs aménagements. Toutefois, par le passé, des solutions optimales pour la sécurité des personnes et la qualité de vie dans le quartier ont été écartées au nom du maintien de la fluidité automobile. Nous craignons que le poids de la culture nord-américaine du tout à l'auto - dont il est impératif de s'extirper - et les voix fortes qui la défendent poussent votre administration vers des compromis malheureux.
 
@@ -36,17 +36,24 @@ Nous souhaitons que l'implantation du tramway soit l'occasion pour l'administrat
 
 ### 1) Des mesures d'apaisement de la circulation contraignant la vitesse des voitures dans les rues du quartier.
 
-Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (6). Nous demandons ainsi que des __aménagements passifs__ - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
+Il a été démontré à plusieurs reprises que la signalisation et les limites de vitesse ont peu d'impact sur la vitesse <u>effective</u> des voitures (7). Nous demandons ainsi que des __aménagements passifs__ - c'est-à-dire des modifications de l’environnement qui contraignent les automobilistes à ralentir - soient réalisés dans les rues du quartier.
 
 Par exemple, la plantation d'alignements d'arbres, l'installation d'obstacles, les traverses piétonnes surélevées et les saillies de trottoir sont [recommandées par les urbanistes de Vivre en Ville](https://collectivitesviables.org/articles/apaisement-de-la-circulation.aspx#contraindre-la-vitesse-6) (1, 5) et contribueraient à pacifier notre quartier.
 
 Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la traversée de la plateforme du tramway par les automobiles sera permise, afin d'éviter que la circulation de transit ne vienne nuire davantage aux déplacements actifs sécuritaires de nos enfants.
 
-En particulier, l'avenue Belvédère, empruntée par plusieurs marcheurs et cyclistes de l'école, est spécialement à risque de voir une augmentation du nombre de voitures et de leur vitesse. De même, l'avenue des Érables, du fait de la largeur de ses voies de circulation automobile, est déjà très difficile à traverser pour les enfants. Ces deux avenues devraient faire l'objet d'une attention particulière.
-
 <p align="center">
  <img src="traversees.png" height=200>
 </p>
+
+Par exemple, l'avenue Belvédère, empruntée par plusieurs marcheurs et cyclistes de l'école, est spécialement à risque de voir une augmentation du volume et de la vitesse de la circulation automobile. De même, l'avenue des Érables, du fait de la largeur de ses voies de circulation automobile, est déjà très difficile à traverser pour les enfants. Ces deux avenues devraient faire l'objet d'une attention particulière.
+
+Les endroits problématiques du quartier ne se limitent pas à ceux cités en exemple ici. Les citoyens ont identifié ceux-ci de manière très complète en réponse à l'initiative de la Ville [Vision de la mobilité active](https://participationcitoyenne.ville.quebec.qc.ca/mobilite-active?tool=map#tool_tab). 
+
+<p align="center">
+ <img src="carte.png" height=200>
+</p>
+
 
 ### 2) La canalisation des automobiles sur la rue Fraser.
 
@@ -67,19 +74,21 @@ De la même manière, la traversée de la rue Bourlamaque au niveau de la rue Du
 <div class="warning" style='padding:0.6em; background-color:#D3D3D3; margin-top:10px'>
 <span>
 <p style='margin-top:1em; text-align:center; font-size: 1.1em'>
-Notons qu'au sujet de ces trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (6) et ne parviennent pas à rassurer les écoliers (8). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
+Notons qu'au sujet de ces trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (7) et ne parviennent pas à rassurer les écoliers (9). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
 </p>
 </span>
 </div>
+
+
 
 
 ### 4) L'interdiction du transit automobile sur le tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
 
 Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes dispose de plusieurs fois cette largeur pour se stationner en bordure de rue et circuler, en plus d'empiéter sur l'espace de trottoir lors de l'ouverture des portières. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
 
-Une façon simple d'y remédier serait d'interdire la circulation automobile de transit sur ce tronçon de rue (Brown entre Père-Marquette et le Chemin Sainte-Foy), au moins aux heures d'ouverture du service de garde. Un débarcadère pour les autobus scolaires et un accès pour les véhicules d'urgence ne sont pas incompatibles avec une telle interdiction.
+Paradoxalement, les déplacements motorisés autour de l’école sont légitimés, voire exacerbés par la présence de la [«Brigade débarcadère CAA-Québec»](https://www.lesoleil.com/2021/11/02/ameliorer-la-securite-des-eleves-autour-de-lecole-anne-hebert-video-009abe4fe7b4ec21d6974afe0335e608), récemment instaurée par le CAA – une association d’automobilistes – sur l’avenue Brown, de sorte que le flot de voitures sur ce tronçon de rue s’est vu accru et les trottoirs encore davantage engorgés par la présence des brigadières. 
 
-Le service de brigadières récemment instauré par le CAA - une association d'automobilistes - exacerbe le problème en favorisant et en légitimant les déplacements motorisés, en plus d'augmenter le flot de voitures sur ce tronçon de rue et d'engorger les trottoirs encore davantage avec la présence des brigadières.
+Pour la sécurité de nos enfants, il vaudrait mieux interdire la circulation automobile de transit sur ce tronçon de rue (Brown entre Père-Marquette et le Chemin Sainte-Foy), au moins aux heures d'ouverture du service de garde. Un débarcadère pour les autobus scolaires et un accès pour les véhicules d'urgence ne sont pas incompatibles avec une telle interdiction.
 
 Une zone piétonne et conviviale en bordure de l'école serait assurément plus agréable et favoriserait, au quotidien, l'établissement de liens sociaux entre les membres de notre communauté, en plus d'améliorer la sécurité aux abords de l'école.
 
@@ -90,7 +99,7 @@ Une zone piétonne et conviviale en bordure de l'école serait assurément plus 
 </p>
 
 
-De manière générale, nous souhaitons que ces aménagements intègrent un maximum des nouveaux arbres promis par l'administration municipale. En plus d'embellir notre quartier, d'améliorer la qualité de son air et de lutter contre les îlots de chaleur, il est démontré que la présence d'arbres encourage la mobilité active (10, 11).
+De manière générale, nous souhaitons que ces aménagements intègrent un maximum des nouveaux arbres promis par l'administration municipale. En plus d'embellir notre quartier, d'améliorer la qualité de son air et de lutter contre les îlots de chaleur, il est démontré que la présence d'arbres encourage la mobilité active (11, 12).
 
 Les rangées d'arbres en bordure de rue sont un bon exemple d'aménagement passif permettant à la fois d'apaiser la circulation automobile et le verdissement du quartier.
 
@@ -185,6 +194,16 @@ Maria Rodriguez
 
 Antoine Casgrain
 
+Julie St-Laurent
+
+Nicolas Laissy
+
+Maxime Lambert
+
+Myriam Gagné
+
+Paule Dallaire
+
 
 # Références
 
@@ -196,19 +215,21 @@ Antoine Casgrain
 
 4) [Séance d’information du 3 mars 2022 au sujet de l’insertion de surface du tramway dans le secteur de l’avenue Cartier et dans les quartiers Montcalm et Saint-Jean-Baptiste](https://www.ville.quebec.qc.ca/citoyens/participation-citoyenne/activites/fiche.aspx?IdProjet=272)
 
-5) [Common ground: Eight factors that influence walking and biking to school. Transport Policy](https://www.researchgate.net/publication/271800371_Common_ground_Eight_factors_that_influence_walking_and_biking_to_school)
+5) [Sécurité des élèves du primaire lors des déplacements à pied et à vélo entre la maison et l'école au Québec : synthèse](https://www.inspq.qc.ca/sites/default/files/publications/1699_securelevesprimdeplpiedvelomaisonecoleqc_synth.pdf)
 
-6) [Objective and Perceived Traffic Safety for Children: A Systematic Literature Review of Traffic and Built Environment Characteristics Related to Safe Travel](https://doi.org/10.3390/ijerph19052641)
+6) [Common ground: Eight factors that influence walking and biking to school. Transport Policy](https://www.researchgate.net/publication/271800371_Common_ground_Eight_factors_that_influence_walking_and_biking_to_school)
 
-7) [Fear of cycling: Social, spatial, and temporal dimensions](https://www.sciencedirect.com/science/article/abs/pii/S096669232030003X)
+7) [Objective and Perceived Traffic Safety for Children: A Systematic Literature Review of Traffic and Built Environment Characteristics Related to Safe Travel](https://doi.org/10.3390/ijerph19052641)
 
-8) [‘They installed a speed bump’: children’s perceptions of traffic-calming measures around elementary schools](https://www.tandfonline.com/doi/abs/10.1080/14733285.2019.1685075)
+8) [Fear of cycling: Social, spatial, and temporal dimensions](https://www.sciencedirect.com/science/article/abs/pii/S096669232030003X)
 
-9) [Active school transportation and the built environment across Canadian cities: Findings from the child active transportation safety and the environment (CHASE) study](https://www.sciencedirect.com/science/article/pii/S0091743521000542)
+9) [‘They installed a speed bump’: children’s perceptions of traffic-calming measures around elementary schools](https://www.tandfonline.com/doi/abs/10.1080/14733285.2019.1685075)
 
-10) [Urban Trees and Human Health: A Scoping Review](https://www.mdpi.com/1660-4601/17/12/4371/htm)
+10) [Active school transportation and the built environment across Canadian cities: Findings from the child active transportation safety and the environment (CHASE) study](https://www.sciencedirect.com/science/article/pii/S0091743521000542)
 
-11) [Does street greenery always promote active travel? Evidence from Beijing](https://www.mdpi.com/1660-4601/17/12/4371/htm)
+11) [Urban Trees and Human Health: A Scoping Review](https://www.mdpi.com/1660-4601/17/12/4371/htm)
+
+12) [Does street greenery always promote active travel? Evidence from Beijing](https://www.mdpi.com/1660-4601/17/12/4371/htm)
 
 <p align="center">
  <img src="dessin.png" height=200>
