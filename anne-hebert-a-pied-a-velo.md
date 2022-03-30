@@ -46,9 +46,9 @@ Ces mesures d'apaisement sont nécessaires dans les rues nord-sud où la travers
  <img src="traversees.png" height=200>
 </p>
 
-Par exemple, l'avenue Belvédère, empruntée par plusieurs marcheurs et cyclistes de l'école, est spécialement à risque de voir une augmentation du volume et de la vitesse de la circulation automobile. De même, l'avenue des Érables, du fait de la largeur de ses voies de circulation automobile, est déjà très difficile à traverser pour les enfants. Ces deux avenues devraient faire l'objet d'une attention particulière.
+Par exemple, l'avenue Belvédère et le Chemin Sainte-Foy, empruntés par plusieurs marcheurs de l'école, sont spécialement à risque de voir une augmentation du volume et de la vitesse de la circulation automobile. De même, l'avenue des Érables, du fait de la largeur de ses voies de circulation automobile, est déjà très difficile à traverser pour les enfants. Ces rues devraient faire l'objet d'une attention particulière lors de la planification des aménagements.
 
-Les endroits problématiques du quartier ne se limitent pas à ceux cités en exemple ici. Les citoyens ont identifié ceux-ci de manière très complète en réponse à l'initiative de la Ville [Vision de la mobilité active](https://participationcitoyenne.ville.quebec.qc.ca/mobilite-active?tool=map#tool_tab). 
+Les endroits problématiques du quartier ne se limitent pas à ceux cités en exemple ici. Les citoyens ont répertorié ceux-ci de manière très complète en réponse à l'initiative de la Ville [Vision de la mobilité active](https://participationcitoyenne.ville.quebec.qc.ca/mobilite-active?tool=map#tool_tab). 
 
 <p align="center">
  <img src="carte.png" height=200>
@@ -74,17 +74,15 @@ De la même manière, la traversée de la rue Bourlamaque au niveau de la rue Du
 <div class="warning" style='padding:0.6em; background-color:#D3D3D3; margin-top:10px'>
 <span>
 <p style='margin-top:1em; text-align:center; font-size: 1.1em'>
-Notons qu'au sujet de ces trois premières demandes, une signalisation du type "circulation locale seulement" et "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (7) et ne parviennent pas à rassurer les écoliers (9). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2).
+Notons qu'au sujet de ces trois premières demandes, une signalisation du type "circulation locale seulement" ou "priorité aux cyclistes", des limites de vitesse affichées ou du marquage au sol ne seront <u>pas suffisants</u> puisqu’ils ont peu d’incidence sur les comportements des automobilistes (7) et ne parviennent pas à rassurer les écoliers (9). Réitérons ici que le non-respect des signalisations et limites de vitesse en place constitue actuellement l'irritant le plus souvent mentionné par les parents de l'école Anne-Hébert interrogés sur le transport de leurs enfants (2) et qu'en conséquence, nous demandons que des aménagements adéquats soient réalisés.
 </p>
 </span>
 </div>
 
 
-
-
 ### 4) L'interdiction du transit automobile sur le tronçon de la rue Brown adjacent à l'école aux heures de service de garde. 
 
-Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes dispose de plusieurs fois cette largeur pour se stationner en bordure de rue et circuler, en plus d'empiéter sur l'espace de trottoir lors de l'ouverture des portières. Cette situation est aberrante et donne régulièrement lieu à des situations frustrantes et dangereuses. 
+Aux heures de service de garde, le trottoir de la rue Brown adjacent à l'école est très achalandé. La grande majorité des parents qui vient reconduire et chercher leurs enfants à pied doit se partager un corridor d'à peine un mètre pour circuler dans les deux directions - parfois avec une poussette -, attendre leurs enfants, leur dire au revoir, discuter entre eux, etc. À l'inverse, la minorité d'automobilistes dispose de plusieurs fois cette largeur pour se stationner en bordure de rue et circuler, en plus d'empiéter sur l'espace de trottoir lors de l'ouverture des portières. Cette situation est aberrante et donne régulièrement lieu à des circonstances frustrantes et dangereuses. 
 
 Paradoxalement, les déplacements motorisés autour de l’école sont légitimés, voire exacerbés par la présence de la [«Brigade débarcadère CAA-Québec»](https://www.lesoleil.com/2021/11/02/ameliorer-la-securite-des-eleves-autour-de-lecole-anne-hebert-video-009abe4fe7b4ec21d6974afe0335e608), récemment instaurée par le CAA – une association d’automobilistes – sur l’avenue Brown, de sorte que le flot de voitures sur ce tronçon de rue s’est vu accru et les trottoirs encore davantage engorgés par la présence des brigadières. 
 
@@ -111,7 +109,7 @@ Le remodelage du quartier que rendra nécessaire l'implantation du tramway offre
 
 C'est pourquoi nous vous demandons de faire des choix cohérents, courageux, justes et ambitieux pour le quartier Montcalm et l'école Anne-Hébert.
 
-# Résumé des demandes:
+# Résumé des demandes
 
 <div class="warning" style='padding:0.6em; background-color:#E9D8FD; color:#69337A; margin-top:10px'>
 <span>
@@ -203,6 +201,12 @@ Maxime Lambert
 Myriam Gagné
 
 Paule Dallaire
+
+Julie Malo-Sauvé
+
+Julie Schreiber
+
+Bertrand Morasse
 
 
 # Références
