@@ -208,6 +208,22 @@ Julie Schreiber
 
 Bertrand Morasse
 
+Sarah Lefebvre
+
+Anne-Pierre Bouffard
+
+Marie-Ève Roy
+
+Sivane Hirsch
+
+Cécile Jallais
+
+Daniel Perron
+
+Karine Champagne
+
+Geneviève Gagnon
+
 
 # Références
 
