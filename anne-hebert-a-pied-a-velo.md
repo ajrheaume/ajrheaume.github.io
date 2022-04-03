@@ -224,6 +224,14 @@ Karine Champagne
 
 Geneviève Gagnon
 
+Claudia B. Cáceres
+
+Éric Cogoluenhès
+
+Clementine Thomas Salomon
+
+Marie-Pier Croteau
+
 
 # Références
 
