@@ -232,6 +232,10 @@ Clementine Thomas Salomon
 
 Marie-Pier Croteau
 
+Melisa Vasquez
+
+Yann Richard
+
 
 # Références
 
